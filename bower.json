@@ -7,13 +7,13 @@
   ],
   "description": "Salesforce Lighting Design System bower package",
   "main": [
-    "salesforce-lightning-design-system-ltng.min.scss,"
-    "salesforce-lightning-design-system-ltng.scss,"
-    "salesforce-lightning-design-system-scoped.min.scss,"
-    "salesforce-lightning-design-system-scoped.scss,"
-    "salesforce-lightning-design-system-vf.min.scss,"
-    "salesforce-lightning-design-system-vf.scss,"
-    "salesforce-lightning-design-system.min.scss,"
+    "salesforce-lightning-design-system-ltng.min.scss",
+    "salesforce-lightning-design-system-ltng.scss",
+    "salesforce-lightning-design-system-scoped.min.scss",
+    "salesforce-lightning-design-system-scoped.scss",
+    "salesforce-lightning-design-system-vf.min.scss",
+    "salesforce-lightning-design-system-vf.scss",
+    "salesforce-lightning-design-system.min.scss",
     "salesforce-lightning-design-system.scss"
   ],
   "keywords": [
