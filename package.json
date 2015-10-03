@@ -1,0 +1,28 @@
+{
+  "name": "SLDS",
+  "version": "0.0.0",
+  "description": "Salesforce Lighting Design System bower package",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattTurnure/SLDS.git"
+  },
+  "author": "Matthew Turnure <matt@mattturnure.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattTurnure/SLDS/issues"
+  },
+  "homepage": "https://github.com/MattTurnure/SLDS",
+  "devDependencies": {
+    "@salesforce-ux/design-system": "^0.9.1",
+    "del": "^2.0.2",
+    "gulp": "^3.9.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "npm": "^3.3.5"
+  }
+}

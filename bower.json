@@ -1,0 +1,41 @@
+{
+  "name": "SLDS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/MattTurnure/SLDS",
+  "authors": [
+    "Matthew Turnure <matt@mattturnure.com>"
+  ],
+  "description": "Salesforce Lighting Design System bower package",
+  "main": [
+    "salesforce-lightning-design-system-ltng.min.scss,"
+    "salesforce-lightning-design-system-ltng.scss,"
+    "salesforce-lightning-design-system-scoped.min.scss,"
+    "salesforce-lightning-design-system-scoped.scss,"
+    "salesforce-lightning-design-system-vf.min.scss,"
+    "salesforce-lightning-design-system-vf.scss,"
+    "salesforce-lightning-design-system.min.scss,"
+    "salesforce-lightning-design-system.scss"
+  ],
+  "keywords": [
+    "scss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "source",
+    "spec",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "gulpfile.js",
+    "gruntfile.js",
+    "package.json",
+    "README.md"
+  ]
+}
